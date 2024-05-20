@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **sidvastva@gmail.com**
 
-- ⚡ Fun fact **Only one planet is there in whole universe like Earth🌍🤔**
+- ⚡ Fun fact **Earth is the only planet in the whole universe like it.🌍🤔**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
