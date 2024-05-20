@@ -1,6 +1,20 @@
 <h1 align="center">Hi 👋, I'm Siddhartha</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
+- 🔭 I’m currently working on **ML End-to-End Project**
+
+- 🌱 I’m currently learning **NLTK (Natural Language Toolkit),spaCy,Transformers by Hugging Face,Detectron2,MXNet,Keras,Caffe**
+
+- 👯 I’m looking to collaborate on **DL Projects**
+
+- 📝 I regularly write articles on [PalpabilityWorld.com](PalpabilityWorld.com)
+
+- 💬 Ask me about **Machine learning, Deep learning , Data visualization , Communication Skills**
+
+- 📫 How to reach me **sidvastva@gmail.com**
+
+- ⚡ Fun fact **Only one planet is there in whole universe like Earth🌍🤔**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/linkedin.com/in/siddhartha-shrivastva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/siddhartha-shrivastva" height="30" width="40" /></a>
