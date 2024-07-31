@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Siddhartha</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
-- 🔭 I’m currently working on **ML End-to-End Project**
+- 🔭 I’m currently working on **NLP End-to-End Project**
 
 - 🌱 I’m currently learning **NLTK (Natural Language Toolkit),spaCy,Transformers by Hugging Face,Detectron2,MXNet,Keras,Caffe**
 
