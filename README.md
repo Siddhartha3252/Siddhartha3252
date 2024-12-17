@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **sidvastva@gmail.com**
 
-- ⚡ Fun fact **A data scientist spends 80% of their time cleaning data and the other 20% wishing it was already clean!🌍🤔**
+- ⚡ Fun fact **: A data scientist spends 80% of their time cleaning data and the other 20% wishing it was already clean!🌍🤔**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
