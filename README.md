@@ -17,7 +17,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="linkedin.com/in/siddhartha-shrivastva" </a>
+  <a href="https://linkedin.com/in/siddhartha-shrivastva" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30">
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
