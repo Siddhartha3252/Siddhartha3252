@@ -9,7 +9,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🔭 **Current Project:** Working on an **End-to-End NLP Project**
+- 🔭 **Current Project:** Working on an **End-to-End GenAI Application**
 - 🌱 **Currently Learning:**  
   - **Libraries:** NLTK, spaCy, Transformers (Hugging Face), Detectron2  
   - **Frameworks:** MXNet, Keras, Caffe
