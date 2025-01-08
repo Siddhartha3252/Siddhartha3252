@@ -15,7 +15,7 @@
   - **Frameworks:** MXNet, Keras, Caffe
 - 👯 **Looking to Collaborate On:** Deep Learning and Data Science projects
 - 📝 **Articles & Blogs:** Regular contributor at [PalpabilityWorld.com](https://PalpabilityWorld.com)
-- 💬 **Ask Me About:** Machine Learning, Deep Learning, Data Visualization, and Communication Skills
+- 💬 **Ask Me About:** Machine Learning, Deep Learning, NLP, Data Visualization, and Communication Skills
 - 📫 **Reach Me At:** sidvastva@gmail.com
 - ⚡ **Fun Fact:** A data scientist spends 80% of their time cleaning data and 20% wishing it was already clean! 🌍🤔  
 
