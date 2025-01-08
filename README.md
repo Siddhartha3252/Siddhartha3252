@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Siddhartha</h1>
-<h3 align="center">Data Scientist | AI Enthusiast | Problem Solver</h3>
+<h3 align="center">Data Scientist | AI Enthusiast | Problem Solver | Dedicated to Continuous Learning</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Data Science GIF" width="300"/>
@@ -30,7 +30,7 @@
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="40" height="40"/>
   </a>
   <a href="https://github.com/siddhartha3252" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="GitHub" width="40" height="40"/>
   </a>
 </p>
 
@@ -45,7 +45,7 @@
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="Spark" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/seaborn/seaborn-icon.svg" alt="Seaborn" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40"/>
 </p>
 
@@ -53,5 +53,6 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siddhartha3252" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=siddhartha3252&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siddhartha3252&theme=dark" alt="GitHub Streak Stats" />
 </p>
