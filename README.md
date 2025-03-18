@@ -38,21 +38,22 @@
 
 ### 🛠️ Languages and Tools
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="Machine Learning (ML)" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="Deep Learning (DL)" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/NLP_icon.png" alt="Natural Language Processing (NLP)" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Computer_vision.svg" alt="Computer Vision" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/AutoML_Logo.svg" alt="AutoML" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/89/Reinforcement_Learning.svg" alt="Reinforcement Learning" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter Notebook" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="Google Colab" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" alt="Power BI" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" alt="Tableau" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_BI_logo.svg" alt="Power BI" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Tableau_Logo.png" alt="Tableau" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/mlflow/mlflow/master/docs/_static/mlflow-logo.png" alt="MLflow" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Mlflow-logo-black.svg" alt="MLflow" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="Machine Learning (ML)" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="Deep Learning (DL)" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/NLP_icon.png" alt="Natural Language Processing (NLP)" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/58/Computer_vision_icon.png" alt="Computer Vision" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/AutoML_Logo.svg" alt="AutoML" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/89/Reinforcement_Learning.svg" alt="Reinforcement Learning" width="40" height="40"/>
+
 </p>
 
