@@ -47,140 +47,15 @@
   <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="Spark" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" alt="OpenCV" width="40" height="40"/>
+  <img src="https://avatars.githubusercontent.com/u/79574625?s=200&v=4" alt="Evidently AI" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/plotly/plotly-icon.svg" alt="Plotly" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Hugging_Face_logo.svg" alt="Hugging Face" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/mlflow/mlflow-icon.svg" alt="MLflow" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Kubernetes_logo_without_workmark.svg" alt="Kubernetes" width="40" height="40"/>
 </p>
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tools & Technologies</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 20px;
-        }
-        .category {
-            margin-bottom: 20px;
-        }
-        .category h2 {
-            background-color: #f4f4f4;
-            padding: 10px;
-            border-left: 5px solid #333;
-        }
-        .items {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 10px;
-        }
-        .item {
-            background-color: #e0e0e0;
-            padding: 8px 12px;
-            border-radius: 5px;
-        }
-    </style>
-</head>
-<body>
-    <div class="category">
-        <h2>🛠️ Tools & Technologies</h2>
-    </div>
-    <div class="category">
-        <h2>🖥️ Programming Languages</h2>
-        <div class="items">
-            <div class="item">C</div>
-            <div class="item">C++</div>
-            <div class="item">Python</div>
-            <div class="item">JavaScript</div>
-            <div class="item">TypeScript</div>
-        </div>
-    </div>
-    <div class="category">
-        <h2>📊 Data Science & Machine Learning</h2>
-        <div class="items">
-            <div class="item">TensorFlow</div>
-            <div class="item">PyTorch</div>
-            <div class="item">OpenCV</div>
-            <div class="item">Pandas</div>
-            <div class="item">Matplotlib</div>
-            <div class="item">Plotly</div>
-            <div class="item">NumPy</div>
-            <div class="item">Scikit-Learn</div>
-            <div class="item">Seaborn</div>
-            <div class="item">Evidently AI</div>
-        </div>
-    </div>
-    <div class="category">
-        <h2>🗄️ Databases</h2>
-        <div class="items">
-            <div class="item">MongoDB</div>
-            <div class="item">MySQL</div>
-            <div class="item">PostgreSQL</div>
-            <div class="item">ChromaDB</div>
-            <div class="item">Supabase</div>
-        </div>
-    </div>
-    <div class="category">
-        <h2>⚙️ Backend & API Development</h2>
-        <div class="items">
-            <div class="item">FastAPI</div>
-        </div>
-    </div>
-    <div class="category">
-        <h2>🚀 Deployment & MLOps</h2>
-        <div class="items">
-            <div class="item">Streamlit</div>
-            <div class="item">MLflow</div>
-            <div class="item">DVC</div>
-            <div class="item">Apache Airflow</div>
-            <div class="item">AWS</div>
-            <div class="item">Docker</div>
-            <div class="item">GitHub Actions</div>
-            <div class="item">CI/CD</div>
-        </div>
-    </div>
-    <div class="category">
-        <h2>🔗 AI Frameworks</h2>
-        <div class="items">
-            <div class="item">LangChain</div>
-        </div>
-    </div>
-    <div class="category">
-        <h2>🌐 Web Development</h2>
-        <div class="items">
-            <div class="item">HTML5</div>
-            <div class="item">CSS3</div>
-            <div class="item">Bootstrap</div>
-            <div class="item">TailwindCSS</div>
-            <div class="item">Node.js</div>
-            <div class="item">Express.js</div>
-            <div class="item">Next.js</div>
-            <div class="item">React</div>
-        </div>
-    </div>
-    <div class="category">
-        <h2>🛠️ Development Tools</h2>
-        <div class="items">
-            <div class="item">Git</div>
-            <div class="item">Postman</div>
-        </div>
-    </div>
-    <div class="category">
-        <h2>🖌️ Design Tools</h2>
-        <div class="items">
-            <div class="item">Figma</div>
-            <div class="item">Blender</div>
-            <div class="item">Adobe Illustrator</div>
-            <div class="item">Photoshop</div>
-            <div class="item">Adobe XD</div>
-        </div>
-    </div>
-    <div class="category">
-        <h2>🔧 Other Tools</h2>
-        <div class="items">
-            <div class="item">Arduino</div>
-            <div class="item">Chart.js</div>
-        </div>
-    </div>
-</body>
-</html>
 
